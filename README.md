@@ -1,2 +1,3 @@
-# Reto1
-Areas: web curso de hackspace
+# Reto1 de la primera semana
+Area: web curso de hackspace
+1er reto de Frontend se trata de maquetación
